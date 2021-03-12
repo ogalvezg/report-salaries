@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(68, 87, 87);
+    color: rgb(235, 188, 127);
+}
+
+
+h1, p {
+    padding: 3rem 0;
+    width: 100%;
+    text-align: center;
+}
+
+.report {
+    align-items: center;
+    margin: 0 4vw;
+}
+
+footer {
+    height: 10vh;
+}
+
